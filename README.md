@@ -12,7 +12,7 @@ CloudLinux 9 (cPanel only)
 
 ## Usage:
 
-1. Select the proper MYSQL/MariaDB version:
+1. Select the proper MySQL/MariaDB version:
 ```
     5.7 (MySQL)
     8.0 (MySQL)
